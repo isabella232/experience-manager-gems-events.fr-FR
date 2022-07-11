@@ -1,36 +1,43 @@
 ---
-title: Troubleshooting AEM Replication
-description: Replication is a central feature in AEM as it allows publishing authored content to publish instances. In this session we'll analyze how to troubleshoot and react to the most common issues in replication.
+title: Dépannage de la réplication AEM
+description: La réplication est une fonctionnalité centrale d’AEM, car elle permet de publier du contenu créé pour les instances de publication. Au cours de cette session, nous analyserons comment résoudre les problèmes les plus courants de la réplication et y réagir.
 uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 2%
+
 ---
 
-# Troubleshooting AEM Replication{#troubleshooting-aem-replication}
 
-Replication is a central feature in AEM as it allows publishing authored content to publish instances. In this session we'll analyze how to troubleshoot and react to the most common issues in replication.
+# Dépannage de la réplication AEM{#troubleshooting-aem-replication}
+
+La réplication est une fonctionnalité centrale d’AEM, car elle permet de publier du contenu créé pour les instances de publication. Au cours de cette session, nous analyserons comment résoudre les problèmes les plus courants de la réplication et y réagir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*Delivered July 26, 2017*
+*Délivrés le 26 juillet 2017*
 
-**Tommaso Teofili, Developer, Adobe**
+**Tommaso Teofili, Développeur, Adobe**
 
-**Presenter slides**
+**Présenter les diapositives**
 
-[Get File](assets/aem-gems-troubleshooting-aem-replication.pdf)
+[Obtenir le fichier](assets/aem-gems-troubleshooting-aem-replication.pdf)
 
-## Related links {#related-links}
+## Liens connexes {#related-links}
 
-* [AEM 6.3 Replication](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
-* [AEM 6.2 Replication](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
-* [AEM 6.1 Replication](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
-* [AEM 6.0 Replication](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
+* [Réplication AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
+* [Réplication AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
+* [Réplication AEM 6.1](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
+* [Réplication AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
->* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+>* [Indexation AEM et requête JCR](aem-indexing-jcr-query.md)
+>* [Dépannage de la réplication AEM](aem-troubleshooting-aem-replication.md)
+>* [Adobe Experience Manager : Tâches de maintenance AEM 6.x](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+

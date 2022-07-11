@@ -1,6 +1,6 @@
 ---
-title: AEM as a Cloud Service - 2021 review and 2022 outlook
-description: Watch an AEM GEMs webinar fir a review of AEM as a Cloud Service in 2021. Also get an overview for what's in store for 2022.
+title: AEM as a Cloud Service - Examen de 2021 et perspectives 2022
+description: Regardez un webinaire AEM GEMs qui passe en revue les AEM as a Cloud Service en 2021. Obtenez également une vue d’ensemble de ce qui est en réserve pour 2022.
 version: Cloud Service
 feature: Release Information
 topic: Content Management
@@ -8,20 +8,27 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
+source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 0%
+
 ---
 
-# Adobe Experience Manager as a Cloud Service: 2021 review and 2022 outlook
 
-This AEM GEMs webinar recording will include the following:
+# Adobe Experience Manager as a Cloud Service : Révision 2021 et perspectives 2022
 
-In this session, we will first review the main changes to Adobe Experience Manager (AEM) as a Cloud Service 2021 and some of the key metrics. We will also talk about the upcoming changes planned for 2022.
+Cet enregistrement AEM webinaire GEM comprend les éléments suivants :
+
+Au cours de cette session, nous allons d’abord passer en revue les principales modifications apportées à Adobe Experience Manager (AEM) as a Cloud Service 2021 et certaines des mesures clés. Nous parlerons aussi des changements prévus pour 2022.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341444/?quality=12&learn=on)
 
-This webinar was conducted on January 25th, 2022 and presented by Bertrand de Coatpont, Director of Product Management
+Ce webinaire a été organisé le 25 janvier 2022 et présenté par Bertrand de Coatpont, Director of Product Management
 
 >[!MORELIKETHIS]
 >
->* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
->* [Corresponding Contextual Thread](https://adobe.ly/3rqbSOz)
->* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.
+>* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [Thread contextuel correspondant](https://adobe.ly/3rqbSOz)
+>* Inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.
+

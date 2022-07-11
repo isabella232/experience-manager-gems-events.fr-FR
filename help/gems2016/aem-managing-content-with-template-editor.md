@@ -1,32 +1,38 @@
 ---
-title: Managing your content with the template editor of Adobe Experience Manager
-description: With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood.
+title: Gestion de contenu avec l'éditeur de modèles d'Adobe Experience Manager
+description: Avec Adobe Experience Manager 6.2, un nouvel éditeur de modèles a été introduit, qui fournit de nouvelles méthodes puissantes pour créer, structurer et configurer des propriétés numériques. Explorez la fonctionnalité du point de vue du super-auteur pour comprendre comment elle permet de composer différents modèles de page et contrôler exactement ce que les auteurs de contenu sont autorisés à faire sur les pages correspondantes. Finalement, plongez dans la mécanique intérieure pour comprendre comment elle fonctionne sous le capot.
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: c4f5077f-9e10-4bcc-8f7a-60b67b282838
----
-# Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '223'
+ht-degree: 7%
 
-With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood. In this session: - Learn how the template editor can make sites more flexible - Have an overview of how the templating mechanics operate
+---
+
+# Gestion de contenu avec l&#39;éditeur de modèles d&#39;Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+
+Avec Adobe Experience Manager 6.2, un nouvel éditeur de modèles a été introduit, qui fournit de nouvelles méthodes puissantes pour créer, structurer et configurer des propriétés numériques. Explorez la fonctionnalité du point de vue du super-auteur pour comprendre comment elle permet de composer différents modèles de page et contrôler exactement ce que les auteurs de contenu sont autorisés à faire sur les pages correspondantes. Finalement, plongez dans la mécanique intérieure pour comprendre comment elle fonctionne sous le capot. Dans cette session : - Découvrez comment l’éditeur de modèles peut rendre les sites plus flexibles - Ayez une vue d’ensemble du fonctionnement des mécanismes de création de modèles
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Delivered September 14, 2016*
+*Délivrés le 14 septembre 2016*
 
-**Presented by:**
+**Présentée par :**
 
-* Patrick Fauchere, Software Engineer, Adobe
+* Patrick Fauchere, ingénieur logiciel, Adobe
 
-Chat expert,
+expert en tchat,
 
-* Gabriel Walt, Product Manager, Adobe
+* Gabriel Walt, chef de produit, Adobe
 
-**Presenter slides**
+**Présenter les diapositives**
 
-[Get File](assets/aem-gems-91416-template-editor.pdf)
+[Obtenir le fichier](assets/aem-gems-91416-template-editor.pdf)
 
-## Related links {#related-links}
+## Liens connexes {#related-links}
 
-* [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+* [Modèles de page](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
+* [Création de modèles de page](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)

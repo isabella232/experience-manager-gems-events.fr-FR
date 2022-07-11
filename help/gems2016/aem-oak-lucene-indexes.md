@@ -1,33 +1,39 @@
 ---
-title: Oak Lucene Indexes
-description: We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
+title: Index Oak Lucene
+description: Nous décrivons les fonctionnalités des index Oak Lucene et leur utilisation pour améliorer les performances de vos requêtes. Dans la seconde partie, nous parlerons du fonctionnement général de l’indexation asynchrone et de la manière dont elle peut être surveillée.
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: 5eaed3e2-9bb5-400e-950e-8a6161590acc
----
-# Oak Lucene Indexes{#oak-lucene-indexes}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 11%
 
-We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
+---
+
+# Index Oak Lucene{#oak-lucene-indexes}
+
+Nous décrivons les fonctionnalités des index Oak Lucene et leur utilisation pour améliorer les performances de vos requêtes. Dans la seconde partie, nous parlerons du fonctionnement général de l’indexation asynchrone et de la manière dont elle peut être surveillée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*Delivered January 20, 2016*
+*Délivrés le 20 janvier 2016*
 
-**Presented by:**
+**Présentée par :**
 
-* Chetan Mehrotra, Senior Computer Scientist, Adobe
-* Alex Parvulescu, Senior Developer, Adobe
+* Chetan Mehrotra, informaticien senior, Adobe
+* Alex Parvulescu, développeur senior, Adobe
 
-**Presenter slides**
+**Présenter les diapositives**
 
-[Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
+[Obtenir le fichier](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**Session Questions and Answers**
+**Questions et réponses de session**
 
-[Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
+[Obtenir le fichier](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## Related links {#related-links}
+## Liens connexes {#related-links}
 
-* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Requêtes et indexation Oak](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+* [Documentation Oak : Index Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
