@@ -1,68 +1,71 @@
----
-source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
-workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 100%
+# Adobe Code of Conduct
 
----
-# Code de conduite d’Adobe
+## Our Pledge
 
-## Notre engagement
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and
+orientation.
 
-Pour favoriser un environnement ouvert et convivial, nous nous engageons, en tant que contributeurs
-et responsables, à faire en sorte que la participation à notre projet et
-à notre communauté ne soit pas source de harcèlement, quel que soit l’âge, la taille,
-le handicap, l’ethnicité, l’identité et l’expression de genre, le niveau d’expérience,
-la nationalité, l’apparence personnelle, la race, la religion ou l’identité et
-l’orientation sexuelles.
+## Our Standards
 
-## Nos normes
+Examples of behavior that contributes to creating a positive environment
+include:
 
-Voici quelques exemples de comportement qui contribuent à la création d’un environnement
-positif :
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-* Utiliser un langage accueillant et inclusif
-* Respecter les différents points de vue et expériences
-* Accepter les critiques constructives
-* Se concentrer sur ce qui est le mieux pour la communauté
-* Faire preuve d’empathie envers les autres membres de la communauté
+Examples of unacceptable behavior by participants include:
 
-Voici quelques exemples de comportement de participants inacceptable :
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-* Utiliser un langage ou des images sexualisées et faire des avances sexuelles non sollicitées
-* Trolling, insultes, commentaires désobligeants et attaques personnelles ou politiques
-* Harcèlement public ou privé
-* Publier les informations privées d’autres utilisateurs, telles qu’une adresse physique ou électronique,
-sans autorisation explicite
-* Autre comportement pouvant raisonnablement être considéré comme inapproprié dans un environnement professionnel
+## Our Responsibilities
 
-## Nos responsabilités
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-Les responsables du projet sont chargés de clarifier les normes en matière de comportement acceptable
-et doivent prendre des mesures correctives appropriées et justes en cas de comportement inacceptable.
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
-Les responsables du projet ont le droit et la responsabilité de supprimer, de modifier ou
-de refuser les commentaires, les validations, le code, les modifications de wiki, les problèmes et autres contributions
-qui ne respectent pas ce code de conduite, ou de bannir temporairement ou
-définitivement les contributeurs pour d’autres comportements qu’ils considèrent inappropriés,
-menaçants, injurieux ou nuisibles.
+## Scope
 
-## Portée
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
-Ce code de conduite s’applique à la fois à l’espace du projet et
-aux environnements publics lorsqu’une personne représente le projet ou sa communauté. Parmi les exemples de représentation d’un projet ou d’une communauté, citons l’utilisation d’une adresse électronique officielle de projet, la publication par le biais d’un compte de réseau social officiel ou l’agissement en tant que représentant désigné à l’occasion d’un événement en ligne ou hors ligne. La représentation d’un projet peut être définie plus précisément et clarifiée par les responsables du projet.
+## Enforcement
 
-## Application
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at Grp-opensourceoffice@adobe.com. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
 
-Les cas de comportements abusifs, harcelants ou tout autre comportement inacceptable peuvent être signalés en contactant l’équipe du projet à l’adresse Grp-opensourceoffice@adobe.com. Toutes
-les plaintes sont examinées et analysées ; elles se traduiront par une réponse jugée nécessaire et adaptée aux circonstances. L’équipe du projet est
-tenue de maintenir la confidentialité en ce qui concerne le déclarant d’un incident.
-Des informations supplémentaires sur les stratégies d’application spécifiques peuvent être publiées séparément.
-
-Les responsables de projet qui ne suivent pas ou n’appliquent pas le code de conduite de bonne
-foi s’exposent temporairement ou de façon permanente à des répercussions définies par d’autres membres de la direction du projet.
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
 
 ## Attribution
 
-Ce code de conduite provient de l’adaptation de la [Charte du contributeur](https://contributor-covenant.org), version 1.4,
-disponible à l’adresse [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/).
+This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org), version 1.4,
+available at [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
