@@ -1,39 +1,33 @@
 ---
-title: Explosion des ressources numériques et AEM Assets
-description: Découvrez l’explosion des ressources numériques et AEM Assets à Adobe.
+title: The Digital Asset Explosion & AEM Assets
+description: Learn about the digital asset explosion and AEM Assets at Adobe.
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 1%
-
 ---
 
+# The Digital Asset Explosion & [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-# L’explosion des ressources numériques et [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
+At Adobe, we have been observing an explosion in digital assets in 4 key areas:
 
-En Adobe, nous avons observé une explosion des ressources numériques dans 4 domaines clés :
+* The file size of digital assets being produced
+* The number of digital assets being produced
+* The expectations of our users and customers for digital assets
+* The requests for larger and larger [!DNL AEM Assets] deployments
 
-* Taille de fichier des ressources numériques en cours de production
-* Nombre de ressources numériques en cours de production
-* Les attentes de nos utilisateurs et de nos clients concernant les ressources numériques
-* Demandes de plus en plus nombreuses [!DNL AEM Assets] déploiements
-
-Au cours de cette session, nous allons en apprendre davantage sur l’explosion des ressources numériques, comprendre l’ampleur de l’AEM au fur et à mesure de l’explosion des ressources, et suivre un exemple client tout au long du cycle de vie de leur [!DNL AEM Assets] projet.
+In this session, we will learn about the Digital Asset Explosion, understanding the scale of AEM as assets explode, and follow a customer example through the lifecycle of their [!DNL AEM Assets] project. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Délivrés le 31 janvier 2018*
+*Delivered January 31, 2018*
 
-**Présentée par :**
+**Presented by:**
 
-Clint Goudie-Nice, ingénieur logiciel senior, Adobe
+Clint Goudie-Nice, Sr. Software Engineer, Adobe
 
-**Présenter les diapositives**
+**Presenter slides**
 
-[Obtenir le fichier](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
+[Get File](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

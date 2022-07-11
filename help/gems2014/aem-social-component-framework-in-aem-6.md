@@ -1,34 +1,28 @@
 ---
-title: Structure des composants sociaux dans AEM 6
-description: Découvrez comment utiliser et étendre Social Component Framework dans AEM 6. Obtenez des informations sur la documentation et les livres de cuisine disponibles.
+title: Social Component Framework in AEM 6
+description: Learn how to use and extend Social Component Framework in AEM 6. Get information on the documentation and cookbooks available.
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
 exl-id: 31be54b9-ba72-4574-a413-ecd09196a220
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 2%
-
 ---
+# Social Component Framework in AEM 6{#social-component-framework-in-aem}
 
-# Structure des composants sociaux dans AEM 6{#social-component-framework-in-aem}
-
-Le Social Component Framework (SCF) est disponible sous la forme d’un Feature Pack pour CQ 5.6.1 et fourni avec AEM 6.0. SCF permet de créer des applications web et mobiles qui utilisent un rendu hybride de serveur afin de permettre l’optimisation du contenu du moteur de recherche, ainsi que le rendu du client, afin d’éviter les actualisations de page et de proposer des expériences enrichies sur les pages. Le même modèle est utilisé pour le rendu client et serveur, ce qui garantit que l’expérience est cohérente, indépendamment du rendu utilisé. Des points de terminaison bien définis permettent une mise en cache efficace des pages, des modèles et des données json, et fournissent des modèles d’extensibilité clairs pour que les clients puissent insérer leur propre logique client et serveur. Cette session abordera la manière d’utiliser et d’étendre SCF, et fournira des informations sur la documentation et les livres de cookie disponibles.
+The Social Component Framework (SCF) is available as a featurepack for CQ 5.6.1 and shipped with AEM 6.0. SCF provides a way to build web and mobile applications that use a hybrid of server rendering to allow search engine optimization of content along with client rendering to avoid page refreshes and provide rich in-page experiences. The same template is used for both client and server rendering, providing assurance that the experience is consistent independent of which rendering is used. Well-defined endpoints allow effective caching of pages, templates and json data, and provide clear extensibility patterns for customers to insert their own client and server logic. This session will cover how to use and extend SCF, and provide information on the documentation and cookbooks available.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*Délivrés le 13 août 2014*
+*Delivered August 13, 2014*
 
-**Présentée par :**
+**Presented by:**
 
-Siddharth Palaniswami, chef du génie logiciel, Adobe
+Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
-**Présenter les diapositives**
+**Presenter slides**
 
-[Obtenir le fichier](assets/scf-gems.pdf)
+[Get File](assets/scf-gems.pdf)
 
-## Liens connexes {#related-links}
+## Related links {#related-links}
 
-* [Lien Github pour un exemple de code](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Structure des composants sociaux](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Github link for code sample](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [Social Component Framework](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

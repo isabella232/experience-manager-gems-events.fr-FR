@@ -1,33 +1,27 @@
 ---
-title: AEM [!DNL Forms] Présentation et exemples techniques du Feature Pack 1
-description: AEM [!DNL Forms] Le Feature Pack 1 est le chemin de mise à niveau des déploiements de LiveCycle et étend la portée de ces implémentations afin d’inclure toutes les fonctionnalités d’AEM [!DNL Forms] plus plus. En outre, une introduction aux exemples pilotés par les clients a été rendue publique.
+title: AEM [!DNL Forms] Feature Pack 1 introduction and technical samples
+description: AEM [!DNL Forms] Feature Pack 1 is the upgrade path for LiveCycle deployments and extends the reach of those implementations to include all the features of AEM [!DNL Forms] plus more. In addition an introduction to customer driven samples made public.
 uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
 exl-id: 5edddabd-503c-4dc0-8e0a-4b6f05e528e3
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 1%
-
 ---
+# AEM [!DNL Forms] Feature Pack 1 introduction and technical samples{#aem-forms-feature-pack-introduction-and-technical-samples}
 
-# AEM [!DNL Forms] Présentation et exemples techniques du Feature Pack 1{#aem-forms-feature-pack-introduction-and-technical-samples}
-
-AEM [!DNL Forms] Le Feature Pack 1 est le chemin de mise à niveau des déploiements de LiveCycle et étend la portée de ces implémentations afin d’inclure toutes les fonctionnalités d’AEM [!DNL Forms] plus plus. En outre, une introduction aux exemples pilotés par les clients a été rendue publique.
+AEM [!DNL Forms] Feature Pack 1 is the upgrade path for LiveCycle deployments and extends the reach of those implementations to include all the features of AEM [!DNL Forms] plus more. In addition an introduction to customer driven samples made public.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19380/?quality=9)
 
-*Délivrés le 4 février 2015*
+*Delivered February 4, 2015*
 
-**Présentée par :**
+**Presented by:**
 
-* Steve Monroe, responsable senior des solutions d’entreprise, Adobe
-* Girish Bedekar, évangéliste de solutions de LiveCycle, Adobe
+* Steve Monroe, Senior Manager Enterprise Solutions, Adobe
+* Girish Bedekar, LiveCycle Solution Evangelist, Adobe
 
-**Présenter les diapositives**
+**Presenter slides**
 
-[Obtenir le fichier](assets/aem-forms-fp1-2015-0204.pdf)
+[Get File](assets/aem-forms-fp1-2015-0204.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

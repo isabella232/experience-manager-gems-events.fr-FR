@@ -1,33 +1,27 @@
 ---
-title: Structure d’intégration eCommerce
-description: Dans le cadre d’Adobe Experience Manager, CQ 5.6 fournit une nouvelle structure de commerce pour créer des sites web de commerce pilotés par Experience sur une plateforme commerciale tierce. Cette session présente un aperçu de la structure du point de vue architectural et présente quelques détails sur l’implémentation de référence, en fonction du référentiel JCR.
+title: eCommerce Integration Framework
+description: As part of Adobe Experience Manager, CQ 5.6 provides a new Commerce Framework to build Experience Driven Commerce websites on top of a third-party commerce platform. This session provides an overview of the framework from an architectural perspective and presents some details of the reference implementation, based on the JCR repository.
 uuid: cf925889-3538-4ae4-a82c-a8e5d30ad1ab
 discoiquuid: c2876633-70b8-46d9-b63d-581b40ec0fef
 targetaudience: target-audience advanced
 exl-id: a05561fa-2d10-4a9b-9618-b93f9dd0ff32
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 1%
-
 ---
+# eCommerce Integration Framework {#ecommerce-integration-framework}
 
-# Structure d’intégration eCommerce {#ecommerce-integration-framework}
-
-Dans le cadre d’Adobe Experience Manager, CQ 5.6 fournit une nouvelle structure commerciale pour créer des sites web de commerce pilotés par Experience sur une plateforme commerciale tierce. Cette session présente un aperçu de la structure du point de vue architectural et présente des détails sur l’implémentation de référence, basée sur le référentiel JCR.
+As part of Adobe Experience Manager, CQ 5.6 provides a new commerce framework to build Experience Driven Commerce websites on top of a third-party commerce platform. This session provides an overview of the framework from an architectural perspective and presents details of the reference implementation, based on the JCR repository.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19577/?quality=9)
 
-*Délivrés le 20 mars 2013*
+*Delivered March 20, 2013*
 
-**Présentée par :**
+**Presented by:**
 
-Paolo Mottadelli, Directeur Technique Du Marketing.
+Paolo Mottadelli, Sr. Technical Marketing Mgr.
 
-## Liens connexes {#related-links}
+## Related links {#related-links}
 
-[Présenter les diapositives](https://www.slideshare.net/paolomoz/aem-cq-ecommerce-framework)
+[Presenter slides](https://www.slideshare.net/paolomoz/aem-cq-ecommerce-framework)
 
-[Enregistrement de démonstration](https://vimeo.com/62251523)
+[Demo Recording](https://vimeo.com/62251523)
 
-[GitHub avec exemple de code](https://github.com/paolomoz/cq-commerce-impl-sample)
+[GitHub with Sample Code](https://github.com/paolomoz/cq-commerce-impl-sample)

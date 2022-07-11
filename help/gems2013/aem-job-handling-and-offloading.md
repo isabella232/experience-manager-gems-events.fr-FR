@@ -1,41 +1,35 @@
 ---
-title: Présentation de la gestion et du déchargement des tâches dans AEM 5.6.1.
-description: Découvrez une présentation technique des fonctionnalités avancées de gestion des tâches. La gestion des tâches est l’infrastructure sous-jacente de fonctionnalités telles que la réplication et le traitement des workflows. Découvrez le module de découverte, ainsi que l’API améliorée de traitement des tâches et les nouvelles fonctionnalités.
+title: Introduction to job handling and offloading in AEM 5.6.1.
+description: Get a technical introduction of the advanced job handling features. Job handling is the underlying infrastructure for features like replication and workflow processing. Learn about the discovery module alongside with the improved job processing API and new features.
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: 9fa2f9a8-86de-4791-ac40-6406e0336e08
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 6%
-
 ---
+# Introduction of Job Handling and Offloading in AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
 
-# Introduction de la gestion et du déchargement des tâches dans AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
-
-La gestion des tâches est l’infrastructure sous-jacente de fonctionnalités telles que la réplication et le traitement des workflows. Cette section présente de manière technique les fonctionnalités avancées de gestion des tâches. Nous discutons du nouveau module de découverte avec l’API améliorée de traitement des tâches et les nouvelles fonctionnalités. En s’appuyant sur la gestion et la découverte des tâches, la structure de déchargement se concentre sur la distribution des tâches entre les instances non clusterisées. Nous allons examiner de plus près la manière dont le déchargement étend la gestion des tâches distribuées. Ensuite, nous examinons comment il est utilisé pour l’implémentation actuelle du déchargement des workflows et comment l’utiliser dans son propre projet.
+Job handling is the underlying infrastructure for features like replication and workflow processing. This is a technical introduction of the advanced job handling features. We discuss the new discovery module alongside with the improved job processing API and the new features. Building on top of the job handling and discovery, the offloading framework focuses on distributing jobs among non-clustered instances. We'll take a closer look into how offloading extends the distributed job handling. Then we look at how it's used for the current implementation of workflow offloading and how one can use it in its own project. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*Délivrés le 24 juillet 2013*
+*Delivered July 24, 2013*
 
-**Présentée par :**
+**Presented by:**
 
-Carsten Ziegeler, développeur senior, Adobe
+Carsten Ziegeler, Senior Developer, Adobe
 
-Marc Pfaff, Développeur en chef, Adobe
+Marc Pfaff, Lead Developer, Adobe
 
-Diapositives du présentateur - Partie 1
+Presenter slides - Part 1
 
-[Obtenir le fichier](assets/jobhandling.pdf)
+[Get File](assets/jobhandling.pdf)
 
-Diapositives du présentateur - Partie 2
+Presenter slides - Part 2
 
-[Obtenir le fichier](assets/offloading.pdf)
+[Get File](assets/offloading.pdf)
 
-## Liens connexes {#related-links}
+## Related links {#related-links}
 
-* [Génération d’événements Apache Sling et gestion des projets](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [API Discovery et ses implémentations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Tâches de déchargement](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Apache Sling Eventing and Jobhandling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Discovery API and its implementations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Offloading Jobs](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

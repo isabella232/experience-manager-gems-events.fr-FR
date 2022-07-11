@@ -1,36 +1,30 @@
 ---
-title: AEM Éditeur SPA
-description: 'À mesure que les applications d’une seule page (SPA) rendent l’expérience globale des visiteurs plus interactive, elles gagnent en popularité, même pour les expériences centrées sur le contenu. Rejoignez-nous pour en savoir plus sur l’éditeur de SPA dans cette introduction. '
+title: AEM SPA Editor
+description: As Single-Page Application (SPA) make the overall visitor experience more interactive, they are gaining popularity, even for content-centric experiences. Join us to learn more about the SPA Editor in this introduction. 
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 1%
-
 ---
 
+# AEM SPA Editor{#aem-spa-editor}
 
-# AEM Éditeur SPA{#aem-spa-editor}
-
-À mesure que les applications d’une seule page (SPA) rendent l’expérience globale des visiteurs plus interactive, elles gagnent en popularité, même pour les expériences centrées sur le contenu. Jusqu’à présent, il était fastidieux, dans la mesure du possible, pour les systèmes de gestion de l’expérience web, de modifier en contexte le contenu et la mise en page de SPA, en raison de leur architecture perturbatrice qui ne consomme que des données JSON du serveur et délègue toutes les autres responsabilités comme le rendu au client. Cela a contraint les marketeurs à utiliser un CMS sans interface et à lancer un cycle de développement pour tout changement de mise en page, perdant ainsi leur contrôle sur toute forme de mise en page et affectant la vitesse des modifications. L’éditeur de SPA apporte les fonctionnalités conviviales de l’éditeur de page AEM à la version de base des structures JavaScript telles que React ou Angular. Il permet aux développeurs front-end de développer des SPA de ce type, tout en disposant d’auteurs non techniques pour modifier le contenu sur place. Rejoignez-nous pour en savoir plus sur SPA éditeur dans cette introduction.
+As Single-Page Application (SPA) make the overall visitor experience more interactive, they are gaining popularity, even for content-centric experiences. So far, it was tedious when possible at all for Web Experience Management Systems to edit in-context the content and layout of SPAs, because of their disrupting architecture that only consumes JSON data from the server and delegates all other responsibilities like rendering to the client. This forced marketers to use headless-only CMS and to initiate a development cycle for any layout change, loosing their control over any form of layout and impacting the velocity of changes. The SPA Editor brings the easy-to-use capabilities of the AEM Page Editor back to SPA built with JavaScript frameworks like React or Angular. It allows front-end developers to develop such SPA like they are used to, while having non-technical authors to edit the content in-place. Please join us to learn more about the SPA Editor in this introduction. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24720/?quality=9)
 
-*10/10/2018 délivrés*
+*Delivered 10/10/2018*
 
-**Présentée par :**
+**Presented by:**
 
-Gabriel Walt, chef de produit, Adobe
+Gabriel Walt, Product Manager, Adobe
 
-**Présentation des diapositives**
+**Slide Presentation**
 
-[Obtenir le fichier](assets/aem-spa-editor.pdf)
+[Get File](assets/aem-spa-editor.pdf)
 
-## Ressources {#resources}
+## Resources {#resources}
 
-[Documentation : AEM Éditeur SPA](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+[Documentation: AEM SPA Editor](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,39 +1,33 @@
 ---
-title: Développement de lots et de services OSGi pour AEM
-description: Découvrez à quel point il est facile de développer des lots et des services OSGi pour AEM. Cette session commence par une brève introduction aux concepts de base d’OSGi.
+title: Developing OSGi Bundles and Services for AEM
+description: Learn how easy it is to develop OSGi bundles and services for AEM. This session starts with a brief introduction to the basic concepts of OSGi.
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
 exl-id: 235ba57e-4c99-464c-85d7-7a27ef946e0b
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 2%
-
 ---
+# Developing OSGi Bundles and Services for AEM{#developing-osgi-bundles-and-services-for-aem}
 
-# Développement de lots et de services OSGi pour AEM{#developing-osgi-bundles-and-services-for-aem}
-
-Découvrez dans cette session à quel point il est facile de développer des lots et des services OSGi pour AEM. Cette session commence par une brève introduction aux concepts de base d’OSGi : lots et services. Par la suite, il démontre l’utilisation simple et simple d’annotations bien établies pour développer des lots et des services. En outre, des conseils et astuces ainsi que des bonnes pratiques pour faciliter le développement AEM et éviter les inconvénients et les pièges sont inclus.
+Learn in this session how easy it is to develop OSGi bundles and services for AEM. This session starts with a brief introduction to the basic concepts of OSGi: bundles and services. Subsequently, it demonstrates the easy and straightforward usage of well established annotations to develop bundles and services. In addition, tips and tricks as well as best practice making AEM development easier and avoiding downsides and pitfalls are included.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*Livré le 6 septembre 2017*
+*Delivered September 6, 2017*
 
-**Présentée par :**
+**Presented by:**
 
-Carsten Ziegeler, scientifique principal, Adobe
+Carsten Ziegeler, Principal Scientist, Adobe
 
-Karl Pauls, informaticienne, Adobe
+Karl Pauls, Computer Scientist, Adobe  
+  
+Chat Expert:  
+David Bosschaert, Senior Software Engineer, Adobe
 
-Chat Expert :\
-David Bosschaert, ingénieur logiciel senior, Adobe
+**Presenter slides**
 
-**Présenter les diapositives**
+[Get File](assets/aem-gems-osgi-best-practices-090617.pdf)
 
-[Obtenir le fichier](assets/aem-gems-osgi-best-practices-090617.pdf)
+## Related links {#related-links}
 
-## Liens connexes {#related-links}
-
-* [OSGi en action (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
-* [Composants OSGi](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
+* [OSGi in Action (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [OSGi Components](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
