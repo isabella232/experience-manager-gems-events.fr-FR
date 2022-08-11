@@ -1,6 +1,6 @@
 ---
 title: Présentation de HTL
-description: Découvrez HTL, un nouveau moteur de modèle et une nouvelle mise en oeuvre linguistique. HTL s’efforce de remplacer JSP en tant que langage de script pour les composants Apache Sling et CQ/AEM et s’efforce de séparer clairement les questions de présentation et de logique.
+description: Découvrez HTL, un nouveau moteur de modèle et une nouvelle mise en œuvre de langage. HTL a pour objectif de remplacer JSP en tant que langage de script pour les composants Apache Sling et CQ/AEM et s’efforce de séparer clairement les questions de présentation et de logique.
 uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
@@ -8,27 +8,27 @@ exl-id: c1e7125b-bea3-40c8-b43d-9b969713ca57
 source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 # Présentation de HTL{#introduction-to-htl}
 
-HTL est un nouveau moteur de modèle et une nouvelle mise en oeuvre de langage. HTL s’efforce de remplacer JSP en tant que langage de script pour les composants Apache Sling et CQ/AEM et s’efforce de séparer clairement les questions de présentation et de logique. Les mesures de sécurité telles que la prévention XSS sont automatiquement appliquées. Un autre avantage important de HTL est qu’il est basé uniquement sur HTML5, ce qui permet aux agences tierces de se concentrer sur la conception de parties liées à un projet CQ/AEM sans connaissance de CQ/AEM. HTL ne se limite pas aux environnements Java, par le biais de l’interface du compilateur enfichable, il peut être implémenté sur de nombreuses plateformes différentes telles que node.js et php.
+HTL est un nouveau moteur de modèle et une nouvelle mise en œuvre de langage. HTL a pour objectif de remplacer JSP en tant que langage de script pour les composants Apache Sling et CQ/AEM et s’efforce de séparer clairement les questions de présentation et de logique. Les mesures de sécurité telles que la prévention XSS sont automatiquement appliquées. Un autre avantage important de HTL est qu’il est basé uniquement sur le HTML5, ce qui permet aux agences tierces de se concentrer sur la conception de parties liées à un projet CQ/AEM sans avoir de connaissance préalables de CQ/AEM. HTL ne se limite pas aux environnements Java, et peut par le biais de l’interface du compilateur enfichable être implémenté sur de nombreuses plateformes différentes telles que node.js et php.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*Délivrés le 25 juin 2014*
+*Présenté le 25 juin 2014*
 
-**Présentée par :**
+**Présenté par :**
 
 Gabriel Walt, chef de produit, Adobe
 
-**Présenter les diapositives**
+**Diapositives du présentateur**
 
 [Obtenir le fichier](assets/sightly-component-development.pdf)
 
-**Questions et réponses de session**
+**Session de questions et réponses**
 
 [Obtenir le fichier](assets/introduction-to-sightly-q-as.pdf)
 

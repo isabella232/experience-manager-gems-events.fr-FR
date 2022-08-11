@@ -1,6 +1,6 @@
 ---
-title: Architecture de la plateforme AEM 5.6
-description: Découvrez l’évolution de l’architecture de la plateforme applicative AEM. Depuis la première version de Communiqué 1, jusqu'au lancement le plus récent d'AEM 5.6, l'application a subi plusieurs modifications pour devenir la plate-forme d'application polyvalente et extensible qu'elle est aujourd'hui.
+title: Architecture de la plateforme AEM 5.6
+description: Découvrez l’évolution de l’architecture de la plateforme d’applications AEM. Depuis la première version du Communiqué 1 jusqu’au lancement tout récent de la version 5.6 d’AEM, l’application a subi plusieurs modifications pour devenir la plateforme d’application polyvalente et extensible qu’elle est aujourd’hui.
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
@@ -8,27 +8,27 @@ exl-id: 5e4c5722-671e-49c7-bb0c-530b387500e6
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Architecture de la plateforme AEM 5.6{#architecture-of-the-aem-platform}
+# Architecture de la plateforme AEM 5.6{#architecture-of-the-aem-platform}
 
-Découvrez l’évolution de l’architecture de la plateforme d’applications AEM. Depuis la première version de Communiqué 1 jusqu&#39;au lancement le plus récent d&#39;AEM 5.6, l&#39;application a subi plusieurs modifications massives pour devenir la plate-forme d&#39;application polyvalente et extensible qu&#39;elle est aujourd&#39;hui.
+Découvrez l’évolution de l’architecture de la plateforme d’applications AEM. Depuis la première version du Communiqué 1 jusqu’au lancement tout récent de la version 5.6 d’AEM l’application a subi plusieurs modifications importantes pour devenir la plateforme d’application polyvalente et extensible qu’elle est aujourd’hui.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Délivrés le 8 mai 2013*
+*Présenté le 8 mai 2013*
 
-**Présentée par :**
+**Présenté par :**
 
 Felix Meschberger, scientifique principal, Adobe
 
-**Présenter les diapositives**
+**Diapositives du présentateur**
 
 [Obtenir le fichier](assets/20130508-aem56-architecture.pdf)
 
-**Questions et réponses de la session**
+**Session de questions et réponses**
 
 [Obtenir le fichier](assets/questionsanswers-aem56-architecture.pdf)
 

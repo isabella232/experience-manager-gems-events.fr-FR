@@ -2,12 +2,12 @@
 source-git-commit: 6cb7cbce469afcefbdf767aff74858f147fc8593
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 # Article relatif aux contributions
 
-Testez push.
+Test (push).
 
 Nous accueillons avec plaisir les contributions de notre communauté ainsi que celles des employés d’Adobe qui ne font pas partie des équipes de documentation.
 

@@ -1,6 +1,6 @@
 ---
-title: Conseils et astuces pour l’interface utilisateur tactile d’AEM Sites
-description: Découvrez les conseils et astuces les plus cool sur [!DNL AEM Sites] Interface utilisateur tactile. Découvrez les fonctionnalités de l’interface utilisateur tactile que vous connaissez peut-être ou non, qui vous permettent d’accomplir plus et de le faire plus rapidement. Que vous soyez un stratège de contenu ou un spécialiste du marketing de contenu, vous découvrirez quelques-uns des avantages cachés de l’interface utilisateur tactile qui vous rendront plus efficace et plus productif.
+title: Conseils et astuces concernant l’interface utilisateur tactile d’AEM Sites
+description: Découvrez le top des conseils et astuces concernant l’interface utilisateur tactile d’ [!DNL AEM Sites] . Découvrez des fonctionnalités de l’interface utilisateur tactile, dont certaines que vous connaîtrez peut-être déjà, qui vous permettent d’être plus efficace et plus rapide. Que vous soyez un spécialiste de la stratégie ou du marketing du contenu, vous découvrirez quelques-uns des avantages méconnus de l’interface utilisateur tactile qui vous rendront plus efficace et plus productif.
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
@@ -8,26 +8,26 @@ exl-id: 3a7f3724-5581-4aa4-a31e-20638639866f
 source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Conseils et astuces pour [!DNL AEM Sites] Interface utilisateur tactile{#tips-and-tricks-for-aem-sites-touch-ui}
+# Conseils et astuces concernant l’interface utilisateur tactile d’[!DNL AEM Sites]{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Découvrez les conseils et astuces les plus cool sur [!DNL AEM Sites] Interface utilisateur tactile. Découvrez les fonctionnalités de l’interface utilisateur tactile que vous connaissez peut-être ou non, qui vous permettent d’accomplir plus et de le faire plus rapidement. Que vous soyez un stratège de contenu ou un spécialiste du marketing de contenu, vous découvrirez quelques-uns des avantages cachés de l’interface utilisateur tactile qui vous rendront plus efficace et plus productif.
+Découvrez le top des conseils et astuces concernant l’interface utilisateur tactile d’[!DNL AEM Sites]. Découvrez des fonctionnalités de l’interface utilisateur tactile, dont certaines que vous connaîtrez peut-être déjà, qui vous permettent d’être plus efficace et plus rapide. Que vous soyez un spécialiste de la stratégie ou du marketing du contenu, vous découvrirez quelques-uns des avantages méconnus de l’interface utilisateur tactile qui vous rendront plus efficace et plus productif.
 
-Dans ce fichier GEM, découvrez comment :
+Dans cette GEM, découvrez comment :
 
-* Parcourir et rechercher efficacement du contenu
-* Organisation du contenu et collaboration sur celui-ci
-* Conserver un aperçu de ce qui se passe
-* Création de contenu
+* parcourir et rechercher efficacement du contenu ;
+* organiser le contenu et faciliter la collaboration avec celui-ci ;
+* garder l’œil sur tout ce qui se passe ;
+* et créer du contenu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*Délivrés le 3 juin 2015*
+*Présenté le 3 juin 2015*
 
-**Présentée par :**
+**Présenté par :**
 
 * Gabriel Walt, chef de produit, Adobe
 * Gilles Knobloch, ingénieur en chef, Adobe

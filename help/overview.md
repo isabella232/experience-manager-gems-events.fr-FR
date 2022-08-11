@@ -1,6 +1,6 @@
 ---
-title: Sessions GEM AEM
-description: Il s’agit de la page d’entrée des GEM d’AEM, y compris des informations sur la série de webinaires et les informations d’enregistrement, les webinaires précédents et à venir.
+title: Sessions AEM Gems
+description: Il s’agit de la page d’accueil des sessions AEM Gems, comprenant des informations sur la série de webinaires et des informations d’inscription pour les webinaires précédents et à venir.
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,46 +9,46 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: Sessions GEM AEM
+user-guide-description: Sessions AEM Gems
 source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Manager Gems
+# Adobe Experience Manager Gems
 
 <img alt="Expériences numériques" src="./assets/ADX_Gems.png"/>
 
-## 2022 Relancement d’AEM GEM
+## Nouveau lancement d’AEM Gems 2022
 
-Bienvenue dans **AEM GEM** - notre série de webinaires sur Adobe Experience Manager, organisés par des experts en Adobe. Cette série est un complément de la documentation du produit et de tous les autres canaux techniques relatifs à Adobe Experience Manager, permettant aux développeurs de contacter et d’approfondir un sujet spécifique.
+Bienvenue dans **AEM Gems**, notre série de sessions d’immersion sur Adobe Experience Manager, organisées par des spécialistes Adobe. Cette série complète la documentation sur le produit et tous les autres canaux techniques relatifs à Adobe Experience Manager, en permettant aux développeurs de se familiariser avec un sujet spécifique et de l’approfondir.
 
-Les webinaires seront organisés régulièrement, notamment :
+Les webinaires seront organisés régulièrement avec les caractéristiques suivantes :
 
-* Durée maximale de 60 minutes
-* Questions et réponses à la fin et experts en chat disponibles tout au long du webinaire
+* Durée maximale de 60 minutes
+* Questions et réponses à la fin et experts disponibles dans un chat tout au long du webinaire
 * Enregistrement disponible après chaque webinaire
-* Le webinaire est gratuit
+* Mise à disposition gratuite du webinaire
 
-## Webinaire et inscription à venir
+## Webinaires à venir et inscription
 
-Tous nos webinaires GEM AEM sont gratuits et organisés virtuellement.
-* Inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti de nos webinaires à venir.
+Tous nos webinaires AEM Gems sont gratuits et organisés en ligne.
+* Inscrivez-vous à l’adresse [Groupe d’utilisateurs Adobe](https://aem-augs.adobe.com/) pour être averti de nos webinaires à venir.
 
-## Communauté Experience League
+## Communauté Experience League
 
-Notre [Communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr) jouer un rôle essentiel pour favoriser l’adoption des produits et le succès des clients.
+Notre [Communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr) joue un rôle essentiel pour favoriser l’adoption des produits et le succès des clients.
 
-* Connexion : Réseau avec des pairs et du personnel d’Adobe pour obtenir des conseils et des bonnes pratiques, de la mise en oeuvre à l’extension de l’utilisation des produits
-* Réponses rapides : Vaste pool de réponses de cas pratiques réels pour une utilisation principale réussie des solutions d’Adobe
-* Idéation et commentaires : Apprenez des idées de produits client et fournissez des commentaires VoC précieux aux équipes produit.
+* Connexion : un réseau de pairs et de membres du personnel d’Adobe pour obtenir des conseils et des bonnes pratiques, de la mise en œuvre à l’optimisation de l’utilisation des produits
+* Réponses rapides : vaste base de données de réponses de cas pratiques réels pour une utilisation active et réussie des solutions Adobe
+* Idéation et commentaires : apprenez des idées de produits client et offrez un retour VoC précieux aux équipes produit.
 
 ## Enregistrement du webinaire précédent
 
-Notre dernier webinaire parlait **Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive** et a été mené le 27 avril.
+Notre dernier webinaire portait sur l’**intégration du framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive** et s’est déroulé le 27 avril.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-Ce webinaire a été présenté par Kunal Gaba et Vinay Kumar, tous deux architectes techniques de l&#39;Adobe.
+Ce webinaire a été présenté par Kunal Gaba et Vinay Kumar, tous deux architectes techniques chez Adobe.

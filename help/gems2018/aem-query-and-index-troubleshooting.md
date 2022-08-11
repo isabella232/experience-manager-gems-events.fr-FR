@@ -1,6 +1,6 @@
 ---
-title: Dépannage de la requête et de l’index AEM
-description: Il s’agit d’une suite de la session de l’an dernier AEM Indexation et Requête JCR. Il couvre les mêmes sujets, mais avec un tout nouveau contenu et un faible chevauchement avec l’ancienne présentation. Les nouvelles fonctionnalités d’AEM 6.4 sont également incluses.
+title: Dépannage des requêtes et de l’indexation AEM
+description: Il s’agit d’une suite de la session de l’an dernier intitulée Indexation AEM et requête JCR. Cette suite couvre les mêmes sujets mais avec un tout nouveau contenu, et ne se répétera que peu par rapport à l’ancienne présentation. Elle comprendra également les nouvelles fonctionnalités d’AEM 6.4.
 page-status-flag: never-activated
 uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
@@ -10,22 +10,22 @@ targetaudience: target-audience advanced
 source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Dépannage de la requête et de l’index AEM{#aem-query-and-index-troubleshooting}
+# Dépannage des requêtes et de l’indexation AEM{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*08/08/2018 délivrés*
+*Présenté le 08 août 2018*
 
-**Présentée par :**
+**Présenté par :**
 
-Thomas Mueller, ingénieur logiciel senior, Adobe
+Thomas Mueller, ingénieur logiciel principal, Adobe
 
-Date : 08/08/2018
+Date : 08/08/2018
 
 [Obtenir le fichier](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 
