@@ -10,7 +10,7 @@ kt: 10470
 source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -31,5 +31,5 @@ Le contenu concerne Adobe Experience Manager as a Cloud Service et Experience
 >[!NOTE]
 >
 >* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez ce [thread contextuel](https://adobe.ly/3O0rdzd).
->* Pour recevoir des notifications automatiques concernant les webinaires, inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/).
+>* Pour recevoir des notifications automatiques concernant les webinaires, inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe AEM](https://aem-augs.adobe.com/).
 

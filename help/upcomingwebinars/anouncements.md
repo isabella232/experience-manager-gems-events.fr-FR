@@ -9,7 +9,7 @@ level: Intermediate
 source-git-commit: d0fef69c8934fdbb79fc1768f7e3eb673891b5d4
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -19,5 +19,5 @@ ht-degree: 47%
 
 >[!NOTE]
 >
->* Les informations sur les prochaines sessions suivront mi-août 2022.
->* Inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être automatiquement averti lors des webinaires à venir.
+>* Des informations sur les sessions à venir arriveront vers la mi-août 2022.
+>* Inscrivez-vous au [Groupe d’utilisateurs d’Adobe AEM](https://aem-augs.adobe.com/) pour être averti(e) des webinaires à venir.

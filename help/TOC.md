@@ -34,7 +34,7 @@ ht-degree: 100%
    + [Séance d’immersion dans Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform – Le cœur d’Experience Cloud](gems2018/aem-acp.md)
    + [Réactivité et facilité d’utilisation : avec AEM, créez des intégrations basées sur des événements à l’aide d’événements d’Adobe I/O.](gems2018/aem-adobe-io.md)
-   + [Événements Adobe Developer (IO) – Déclencheurs d’analyse](gems2018/aem-analytics-triggers.md)
+   + [Événements Adobe Developer (IO) – Analytics Triggers](gems2018/aem-analytics-triggers.md)
    + [Expériences d’évolutivité des instances de création AEM](gems2018/aem-author-scalability1.md)
    + [Composants principaux AEM](gems2018/aem-core-components.md)
    + [L’explosion des ressources numériques et  [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
