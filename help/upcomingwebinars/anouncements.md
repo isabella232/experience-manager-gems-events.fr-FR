@@ -1,13 +1,13 @@
 ---
 title: Annonces
 description: Cette page s’affiche si les sessions à venir ne sont pas encore définies.
-version: Experience Manager
+version: Cloud Service
 feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: d0fef69c8934fdbb79fc1768f7e3eb673891b5d4
-workflow-type: tm+mt
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+workflow-type: ht
 source-wordcount: '40'
 ht-degree: 100%
 
