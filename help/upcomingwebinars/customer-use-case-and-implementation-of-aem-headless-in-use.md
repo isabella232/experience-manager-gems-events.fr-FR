@@ -1,7 +1,7 @@
 ---
 title: Cas d’utilisation client et implémentation d’AEM sans affichage en cours d’utilisation
 description: Annonce de la session
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
