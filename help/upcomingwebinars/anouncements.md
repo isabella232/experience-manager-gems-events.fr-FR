@@ -6,10 +6,10 @@ feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 78%
 
 ---
 
@@ -19,5 +19,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->* Des informations sur les sessions à venir arriveront vers la mi-août 2022.
+>* Les informations sur les prochaines sessions suivront début novembre 2022.
 >* Inscrivez-vous au [Groupe d’utilisateurs d’Adobe AEM](https://aem-augs.adobe.com/) pour être averti(e) des webinaires à venir.
