@@ -10,16 +10,44 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 85%
 
 ---
 
 # Adobe Experience Manager Gems
 
 <img alt="Expériences numériques" src="./assets/ADX_Gems.png"/>
+
+## Événements GEM AEM à venir !
+
+<!---  Remove the comment marks, and put the upcoming event in the below table
+
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+De plus amples informations sur les GEM AEM à venir seront disponibles en novembre 2022.
+
+>[!NOTE]
+>
+> Inscrivez-vous pour être averti des sessions GEMS à venir à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/).
 
 ## Nouveau lancement d’AEM Gems 2022
 
@@ -32,10 +60,9 @@ Les webinaires seront organisés régulièrement avec les caractéristiques suiv
 * Enregistrement disponible après chaque webinaire
 * Mise à disposition gratuite du webinaire
 
-## Webinaires à venir et inscription
-
 Tous nos webinaires AEM Gems sont gratuits et organisés en ligne.
-* Inscrivez-vous à l’adresse [Groupe d’utilisateurs Adobe](https://aem-augs.adobe.com/) pour être averti de nos webinaires à venir.
+
+Inscrivez-vous à [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti de nos webinaires à venir.
 
 ## Communauté Experience League
 
