@@ -2,10 +2,10 @@
 title: Indexation AEM et requête JCR
 description: Bonnes pratiques d’indexation et de requête d’AEM. Découvrez comment résoudre les problèmes de requête dans AEM, et comment configurer et gérer les index.
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
-topic-tags: best_practices
+topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+source-git-commit: f563ff48e6721c5d7c3b609506c09049b08d88b4
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
