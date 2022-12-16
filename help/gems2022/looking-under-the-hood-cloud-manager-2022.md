@@ -7,13 +7,13 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 5f3e2e14-57ab-4bf5-a8c7-9bf431836ab2
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
-
 
 # Présentation des rouages de Cloud Manager 2022
 
@@ -22,7 +22,7 @@ ht-degree: 88%
 Description de la session :
 Découvrez les nouvelles fonctionnalités publiées l’année dernière, des nouvelles fraîches sur les développements en coulisses et un aperçu sur ce que le reste de l’année 2022 nous prépare. Vous obtiendrez également des informations détaillées sur les rouages internes de Cloud Manager et sur la manière dont un client peut en tirer le meilleur parti.  
 
-Le contenu concerne Adobe Experience Manager as a Cloud Service et Experience Manager Managed Services, avec un accent mis sur Cloud Service. Il convient aussi bien aux participants techniques qu&#39;aux participants non techniques. L’exposition préalable à Cloud Manager peut vous aider dans le contexte, mais elle n’est pas nécessaire.
+Le contenu concerne Adobe Experience Manager as a Cloud Service et Experience Manager Managed Services, avec un accent mis sur Cloud Service. Cette session convient aussi bien aux participant(e)s techniques qu’aux participant(e)s non techniques. Des connaissances préalables sur Cloud Manager peuvent vous aider à comprendre le contexte, mais elles ne sont pas nécessaires.
 
 **Enregistrement de webinaire**
 

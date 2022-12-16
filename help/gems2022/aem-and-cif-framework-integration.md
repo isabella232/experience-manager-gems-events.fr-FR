@@ -1,23 +1,23 @@
 ---
 title: Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive
-description: Découvrez comment le framework CIF de l’Adobe peut être utilisé pour créer une expérience commerciale cohérente, riche en contenu et immersive.
+description: Découvrez comment le framework CIF d’Adobe peut être utilisé pour créer une expérience commerciale cohérente, riche en contenu et immersive.
 version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 49bed9eb-8995-4821-b919-b7ca0e0c44d1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
+# Intégrer AEM et le framework CIF pour créer une expérience d’e-commerce riche et immersive
 
-# Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive
-
-Ce webinaire GEM AEM comprend une présentation et une démonstration pour vous aider à comprendre comment le framework CIF de l’Adobe peut être utilisé pour créer une expérience commerciale cohérente, riche en contenu et immersive. Experience Manager et Adobe Commerce sont intégrés de manière transparente à l’aide de Commerce Integration Framework (CIF). CIF permet à AEM d’accéder directement à l’instance de commerce et de communiquer avec elle à l’aide des API GraphQL Adobe Commerce (consultez le programme de haut niveau ci-dessous).
+Ce webinaire AEM Gems comprend une présentation et une démonstration pour vous aider à comprendre comment le framework CIF d’Adobe peut être utilisé pour créer une expérience commerciale cohérente, riche en contenu et immersive. Experience Manager et Adobe Commerce sont intégrés de manière transparente à l’aide de Commerce Integration Framework (CIF). CIF permet à AEM d’accéder directement à l’instance de commerce et de communiquer avec elle à l’aide des API GraphQL d’Adobe Commerce (consultez le programme de haut niveau ci-dessous).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
