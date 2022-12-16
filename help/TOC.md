@@ -3,10 +3,10 @@ user-guide-title: Événements Gems Adobe Experience Manager
 user-guide-description: Découvrez AEM Gems, une série d’études approfondies réalisées par des experts d’Adobe Experience Manager sur certains de ses aspects techniques.
 breadcrumb-title: Événements AEM Gems
 feature-set: Experience Manager
-source-git-commit: df64475d20fd646580794c1fdfbfa0ab27454434
+source-git-commit: 2e7c56f001b7318c7d2c64dcbec51bebfcfe1225
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '625'
+ht-degree: 96%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 0%
 
 + [Présentation](overview.md)
 + 2022 {#gems2022}
+   + [AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS](gems2022/aem-best-practices-analyzer.md)
    + [Webinaires à venir](/help/announcements.md)
    + [Cas d’utilisation client et implémentation d’AEM sans affichage en cours d’utilisation](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Présentation des rouages de Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
