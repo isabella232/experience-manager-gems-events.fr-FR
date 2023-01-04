@@ -1,6 +1,6 @@
 ---
 title: Sessions AEM Gems
-description: Il s’agit de la page d’accueil des sessions AEM Gems, comprenant des informations sur la série de webinaires et des informations d’inscription pour les webinaires précédents et à venir.
+description: Il s’agit de la page de destination des sessions AEM Gems, comprenant des informations sur la série de webinaires et des informations d’inscription pour les webinaires précédents et à venir.
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -13,7 +13,7 @@ user-guide-description: Sessions AEM Gems
 source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 79%
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 79%
 
 <img alt="Expériences numériques" src="./assets/ADX_Gems.png"/>
 
-## Événements GEM AEM à venir !
+## Événements AEM Gems à venir !
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -49,7 +49,7 @@ Enregistrement : [Enregistrement de webinaire](https://aem-augs.adobe.com/e/mz8e
 
 >[!NOTE]
 >
-> Inscrivez-vous pour être averti des sessions GEMS à venir à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/).
+> S’abonner pour être averti(e) des sessions Gems à venir à l’adresse [Groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
 
 ## Nouveau lancement d’AEM Gems 2022
 
@@ -64,7 +64,7 @@ Les webinaires seront organisés régulièrement avec les caractéristiques suiv
 
 Tous nos webinaires AEM Gems sont gratuits et organisés en ligne.
 
-Inscrivez-vous à [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti de nos webinaires à venir.
+Inscrivez-vous à l’adresse [Groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/) pour être averti(e) de nos webinaires à venir.
 
 ## Communauté Experience League
 

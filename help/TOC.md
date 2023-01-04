@@ -6,7 +6,7 @@ feature-set: Experience Manager
 source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
    + [Webinaires à venir](/help/announcements.md)
    + [AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS](gems2022/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
-   + [Cas d’utilisation client et implémentation d’AEM sans affichage en cours d’utilisation](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [Cas d’utilisation client et implémentation d’AEM Headless en cours d’utilisation](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Présentation des rouages de Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive](gems2022/aem-and-cif-framework-integration.md)
    + [Création de sites web plus rapidement avec AEM découplé et App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
@@ -61,7 +61,7 @@ ht-degree: 96%
    + [Formulaires de recherche simplifiés avec QueryBuilder d’AEM](/help/gems2017/aem-search-forms-using-querybuilder.md)
    + [Maintenance AEM – Bonnes pratiques pour le déploiement des versions de maintenance d’AEM](/help/gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
    + [Séance d’immersion : les rouages de TarMK](/help/gems2017/aem-tarmk-deepdive.md)
-   + [Tough Day 2 – La nouvelle version améliorée de l’outil de test de stress et d’évaluation des performances](/help/gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
+   + [Toughday2 – La nouvelle version améliorée de l’outil de test de stress et d’évaluation des performances](/help/gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
    + [La version 6.3 d’AEM bientôt au grand jour – Intégration et bonnes pratiques de traduction](/help/gems2017/aem-translation-best-practices.md)
    + [Dépannage de la réplication AEM](/help/gems2017/aem-troubleshooting-aem-replication.md)
    + [Dépannage de la distribution de contenu Sling](/help/gems2017/aem-troubleshooting-sling.md)
