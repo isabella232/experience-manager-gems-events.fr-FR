@@ -7,10 +7,10 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 93%
+ht-degree: 88%
 
 ---
 
@@ -25,9 +25,9 @@ Notez que qu’AEM Best Practices Analyzer n’est pas applicable aux environnem
 
 ### Présentateurs/Présentatrices
 
-* Aditi Dutt Chaudhari, chef de produit, Adobe
+* Aditi Dutt Chaudhuri, Chef De Produit, Adobe
 * Saurabh Saxena, ingénieur en chef, Adobe
-* Kiran Murugula, architecte principal du cloud, Adobe
+* Kiran Murugulla, architecte principal du cloud, Adobe
 * Vaibhav Varshney, informaticien, Adobe
 * Himani Chauhan, informaticienne, Adobe
 
