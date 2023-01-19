@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+workflow-type: tm+mt
+source-wordcount: '311'
+ht-degree: 74%
 
 ---
 
@@ -43,14 +43,12 @@ ht-degree: 100%
 </table>
 
 --->
-Webinaire GEM AEM à venir : *AEM Best Practices Analyzer pour les environnements on-premise et AMS*.
-Date : 18 janvier, 17 h CET / 8 h PST / 9 h 30 IST
-Ressource : [AEM Best Practices Analyze](/help/gems2022/aem-best-practices-analyzer.md)
-Enregistrement : [Enregistrement de webinaire](https://aem-augs.adobe.com/e/mz8eae/)
+Webinaire GEM AEM le plus récent : *AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS*.
+Conduite : 18 janvier, 17h CET / 8h PST / 9h30 IST Resource : [Analyseur des bonnes pratiques AEM](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> S’abonner pour être averti(e) des sessions Gems à venir à l’adresse [Groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
+> Inscrivez-vous pour être averti lors des webinaires GEM AEM à venir à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/).
 
 ## Nouveau lancement d’AEM Gems 2022
 
@@ -77,8 +75,8 @@ Notre [Communauté Experience Manager](https://experienceleaguecommunities.adob
 
 ## Enregistrement du webinaire précédent
 
-Notre dernier webinaire portait sur l’**intégration du framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive** et s’est déroulé le 27 avril.
+Notre dernier webinaire parlait **AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS** et a eu lieu le 18 janvier 2023.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Ce webinaire a été présenté par Kunal Gaba et Vinay Kumar, tous deux architectes techniques chez Adobe.
+Pour plus d’informations sur la session, y compris une description et des informations sur le présentateur, consultez la page [Analyseur des bonnes pratiques AEM](/help/gems2023/aem-best-practices-analyzer.md).
