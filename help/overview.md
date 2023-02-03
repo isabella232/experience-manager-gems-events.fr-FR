@@ -13,7 +13,7 @@ user-guide-description: Sessions AEM Gems
 source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 75%
+ht-degree: 91%
 
 ---
 
@@ -48,7 +48,7 @@ Date : 22 février, 17h CET / 8h PST / 21h30 IST Resource : [Webinaire Environne
 
 >[!NOTE]
 >
-> Inscrivez-vous pour être averti lors des webinaires GEM AEM à venir à l’adresse [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/).
+> Abonnez-vous pour connaître les sessions AEM Gems à venir à l’adresse [Groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
 
 ## Nouveau lancement d’AEM Gems 2022
 
@@ -75,8 +75,8 @@ Notre [Communauté Experience Manager](https://experienceleaguecommunities.adob
 
 ## Enregistrement du webinaire précédent
 
-Notre dernier webinaire parlait **AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS** et a eu lieu le 18 janvier 2023.
+Le sujet de notre dernier webinaire était **AEM Best Practices Analyzer pour les environnements on-premise et AMS** et a eu lieu le 18 janvier 2023.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Pour plus d’informations sur la session, y compris une description et des informations sur le présentateur, consultez la page [Analyseur des bonnes pratiques AEM](/help/gems2023/aem-best-practices-analyzer.md).
+Pour plus d’informations sur la session, y compris une description et des informations sur le présentateur ou la présentatrice, consultez la page [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
