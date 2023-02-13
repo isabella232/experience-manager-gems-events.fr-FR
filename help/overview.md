@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
 source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '308'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -43,8 +43,9 @@ ht-degree: 91%
 </table>
 
 --->
-*Accélération du développement des Cloud Service Adobe Experience Manager avec des environnements de développement rapide*
-Date : 22 février, 17h CET / 8h PST / 21h30 IST Resource : [Webinaire Environnement de développement rapide AEM](/help/gems2023/Rapid-Development-Environments.md)
+*Accélérer le développement d’Adobe Experience Manager Cloud Service avec les environnements de développement rapide*
+Date : 22 février, 17 h CET / 8 h PST / 21 h 30 IST
+Ressource : [webinaire sur les environnements de développement rapide AEM](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
