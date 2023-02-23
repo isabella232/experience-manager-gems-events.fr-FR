@@ -10,19 +10,17 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 66e2150987319e08f22ca002015da24b18f5e452
-workflow-type: ht
-source-wordcount: '249'
-ht-degree: 100%
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 96%
 
 ---
 
 
 # Accélérer le développement d’AEM as a Cloud Service avec des environnements de développement rapide
 
-## Ce webinaire aura lieu le 22 février 2023. Inscrivez-vous sur la page de l’événement.
-
-Inscrivez-vous via la [page de l’événement](http://bit.ly/3DsMcYw) sur le groupe d’utilisateurs AEM d’Adobe - Chapitre d’apprentissage.
+Ce webinaire a eu lieu le 22 février 2023. Veuillez consulter l’enregistrement ci-dessous.
 
 ## Description de la session
 
@@ -34,6 +32,10 @@ Les RDE permettent aux développeurs et développeuses de déployer et d’exami
 * Natalia Angulo Herrera, ingénieure de développement logiciel
 * Karl Pauls, informaticien senior
 * David Bosschaert, ingénieur logiciel senior
+
+## Enregistrement du webinaire - 18/01/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
