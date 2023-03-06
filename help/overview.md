@@ -13,7 +13,7 @@ user-guide-description: Sessions AEM Gems
 source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 86%
+ht-degree: 94%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 86%
 </table>
 
 --->
-Notre dernier webinaire sur les GEM AEM **Accélération du développement des Cloud Service Adobe Experience Manager avec des environnements de développement rapide** a été conduit sur *22 février 2023*.
+Notre dernier webinaire AEM GEMs **Accélération du développement Adobe Experience Manager Cloud Service avec des environnements de développement rapide***a eu lieu le 22 février 2023*.
 Le **enregistrement** se trouve ici : [Webinaire Environnement de développement rapide AEM](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
